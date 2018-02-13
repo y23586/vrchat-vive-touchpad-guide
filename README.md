@@ -1,5 +1,5 @@
 # vrchat-vive-touchpad-guide
-![Appearance](https://yousuke23586.github.io/vrchat-vive-touchpad-guide/img/appearance.png)
+![Appearance](https://raw.githubusercontent.com/yousuke23586/vrchat-vive-touchpad-guide/master/img/appearance.png)
 
 A 3D-printable part that helps you to make hand gestures in VRChat.
 
